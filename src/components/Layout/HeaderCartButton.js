@@ -1,4 +1,4 @@
-import React, { useContent } from "react";
+import React, { useContext } from "react";
 import CartIcon from "../Cart/CartIcon";
 import CartContext from "../../store/cart-contex";
 import classes from "./HeaderCartButton.module.css";
